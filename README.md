@@ -14,7 +14,7 @@ Use Nuget Package Manager Console
 
 ```bash
 dotnet restore
-dotnet run or press F5 on the TruckControl presentation project
+dotnet run or press F5 on the WebApi presentation project
 ```
 
 Open the browser on https://localhost:44308
